@@ -24,7 +24,7 @@ We investigate three aggregation strategies:
 
 ## 📂 Repository Contents
 
-- `dataset/` — Containts all input datasets. 
+- `dataset/` — Contains all input datasets. 
 - `Main Scripts/` — Analysis code for all datasets (includes Logistic Regression and SVMs)
 - `Output Results/` — Output results for all datasets 
 - `Jupyter Notebook Code/` — All other miscellaneous code, mostly comprised of individual dataset analysis code. 
