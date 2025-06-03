@@ -22,4 +22,11 @@ We investigate three aggregation strategies:
 - For distributed **logistic regression**, **posterior probability averaging** offers the most robust performance and is the recommended approach.
 - For distributed **SVM**, posterior probability averaging adds modeling complexity without significant gains. Thus, **functional (real-valued) averaging** is preferred.
 
+## 📂 Repository Contents
+
+- `dataset/` — Containts all input datasets. 
+- `Main Scripts/` — Analysis code for all datasets (includes Logistic Regression and SVMs)
+- `Output Results/` — Output results for all datasets 
+- `Jupyter Notebook Code/` — All other miscellaneous code, mostly comprised of individual dataset analysis code. 
+
 
